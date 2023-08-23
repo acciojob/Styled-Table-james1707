@@ -1,1 +1,29 @@
-/* your code */
+body{
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  padding-inline: ;
+}
+
+table{
+    border-style: solid;
+    border-radius: 30px;
+    border-color:#dddddd;
+    overflow: hidden;
+    text-align:left;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 10px;
+    width: 90vw; 
+}
+
+.header{
+    background-color: #215a8e;
+    color: aliceblue; 
+
+   
+}
+.even{
+    background-color: #dddddd;
+}
